@@ -1,0 +1,6 @@
+build
+build.log
+tmp
+._*
+.fastdev.lock
+.DS_Store
